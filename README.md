@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @waldolato
-- 👀 I’m interested in Information Technology!
+- 👋 Hi, I’m Lola Waldolato
+- 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning evertyhing about Algorithms, computer archtecture and some HTML/CSS, and soon I'll be studying Programming languages.
 - ⚡ Fun fact: I just started a Degree in Systems Analysis and Development and I'm so excited about it!
 
